@@ -1,4 +1,5 @@
-pdf-extract-structured-data
-===========================
-### Notes
-- **This project can only run on Node v18 or above**
+shower-playground
+=================
+### Re-init
+1. `npm i -D @shower/cli`
+2. `shower create` (should not create in root directory, default [`slides`](./slides/))

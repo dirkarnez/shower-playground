@@ -6,3 +6,6 @@ shower-playground
 
 ### dist
 - [`slides/bundled/index.html`](./slides/bundled/index.html)
+
+### Demos
+- [几个问题？ — 谈谈 Web IDL](https://www.w3.org/People/xiaoqian/talks/TWEB-2019/Overview.html#webxr)
